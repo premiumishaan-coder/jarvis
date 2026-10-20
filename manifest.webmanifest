@@ -2,7 +2,7 @@
  "name": "Jarvis",
  "short_name": "Jarvis",
  "description": "Voice assistant",
- "start_url": "./jarvis9.html",
+ "start_url": "./jarvis10.html",
  "scope": "./",
  "display": "standalone",
  "orientation": "portrait",
